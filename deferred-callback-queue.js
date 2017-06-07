@@ -3,7 +3,7 @@
  * @link https://www.trisoft.ro/
  */
 
-function DeferredQueue(interval, autostart) {
+function DeferredCallbackQueue(interval, autostart) {
     this.queue = [];
     this.interval = undefined;
 

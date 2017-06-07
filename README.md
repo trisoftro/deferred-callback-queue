@@ -1,4 +1,4 @@
-# DeferredQueue
+# Deferred Callback Queue
 
 Simple method to defer and throttle the execution of method calls.
 
@@ -39,7 +39,7 @@ Simple method to defer and throttle the execution of method calls.
  * Initialize the queue, with an interval of 100 miliseconds and autostart set to true.
  * If autostart is false or not specified, you must call queue.start(); yourself.
  */
-var queue = new DeferredQueue(100, true);
+var queue = new DeferredCallbackQueue(100, true);
 
 $('.something').click(function () {
     /**
