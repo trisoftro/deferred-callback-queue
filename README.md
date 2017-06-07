@@ -55,3 +55,7 @@ $('.something').click(function () {
     queue.addCall(Do.Something, 1024);
 });
 ```
+
+# Credits
+
+- [The TriSoft Team](https://www.trisoft.ro/)

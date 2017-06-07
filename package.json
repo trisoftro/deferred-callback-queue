@@ -1,6 +1,6 @@
 {
   "name": "deferred-callback-queue",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple method to defer and throttle the execution of method calls.",
   "repository": {
     "type": "git",
