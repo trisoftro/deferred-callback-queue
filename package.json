@@ -1,10 +1,10 @@
 {
-  "name": "deferred-queue",
-  "version": "0.1",
+  "name": "deferred-callback-queue",
+  "version": "0.1.0",
   "description": "Simple method to defer and throttle the execution of method calls.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trisoftro/deferred-queue.git"
+    "url": "git+https://github.com/trisoftro/deferred-callback-queue.git"
   },
   "keywords": [
     "deferred",
@@ -15,7 +15,7 @@
   "email": "info@trisoft.ro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trisoftro/deferred-queue/issues"
+    "url": "https://github.com/trisoftro/deferred-callback-queue/issues"
   },
-  "homepage": "https://github.com/trisoftro/deferred-queue"
+  "homepage": "https://github.com/trisoftro/deferred-callback-queue"
 }
