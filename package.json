@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/trisoftro/deferred-callback-queue.git"
   },
-  "main": "deferred-callback-queue.js",
   "keywords": [
     "deferred",
     "queue",
